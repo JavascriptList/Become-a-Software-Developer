@@ -1,4 +1,4 @@
-# become-a-software-developer
+# Become-a-software-developer
 
 ## 100+ Free resources for learning Full Stack Web Development.
 
